@@ -22,10 +22,10 @@ I am enthusiastic about leveraging my skills to contribute to data-driven decisi
 
 - 🌍 **Location:** Indore, Madhya Pradesh, India
 - 🌱 I’m currently learning **Advanced Machine Learning Techniques**
-- 🌐 Check out my portfolio **[here](#)** _(You can update this with your actual portfolio link)_
 - 🔭 I’m working on **Data Visualization Projects**
 - 👯 I’m looking to collaborate on **Data Science Projects**
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/bhupen5235/)**
+- 🌐 Check out my portfolio **[here](https://bhupen5235.github.io/)**
 
 ---
 
