@@ -16,9 +16,9 @@
 
 ### 👨‍💻 About Me
 
-As a data analyst with a strong foundation in data analysis and visualization, I am passionate about uncovering actionable insights from complex datasets. My academic and project experiences have equipped me with robust analytical skills, enabling me to solve real-world challenges effectively. 
+With expertise in data analysis and visualization, adept at transforming complex datasets into actionable insights. A solid academic foundation and hands-on project experience have sharpened analytical skills, enabling effective problem-solving in real-world scenarios.
 
-I am enthusiastic about leveraging my skills to contribute to data-driven decision-making and drive business growth. I am particularly interested in utilizing advanced analytics tools and methodologies to extract meaningful insights. 
+Committed to advancing data-driven decision-making, dedicated to leveraging advanced analytics tools and methodologies to uncover insights that propel business growth and strategic success.
 
 - 🌍 **Location:** Indore, Madhya Pradesh, India
 - 🌱 I’m currently learning **Advanced Machine Learning Techniques**
